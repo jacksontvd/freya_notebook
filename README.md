@@ -6,7 +6,7 @@ Jackson van Dyke <jacksonvandyke@lbl.gov>
 
 ### 
 
-### ....Required packages:
+### Required packages:
 * NumPy
 * MatPlotLib
 * IPython
@@ -20,6 +20,6 @@ https://www.anaconda.com/download/#macos
 https://www.anaconda.com/download/#linux
 
 
-### ....To view and run the notebook:
+### To view and run the notebook:
 
 $ jupyter notebook Event_Analysis_SOLUTIONS.ipynb
