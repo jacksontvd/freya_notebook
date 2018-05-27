@@ -14,6 +14,7 @@ be placed in the same directory as the notebook.
 * NumPy
 * MatPlotLib
 * IPython
+
 These can all be installed as part of the so-called 
 Anaconda package available at the following links:
 * Windows:
