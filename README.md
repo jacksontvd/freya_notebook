@@ -27,4 +27,4 @@ https://www.anaconda.com/download/#linux
 
 ### To view and run the notebook:
 
-$ jupyter notebook Event_Analysis_SOLUTIONS.ipynb
+$ jupyter notebook Event_Analysis.ipynb
